@@ -90,7 +90,7 @@ Text-to-Speech (TTS)
 
 Audio Output Through Speaker
 
-# 4. CASE STUDIES
+# CASE STUDIES
 
 # Case Study 1: Amazon Alexa
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/d7962d35-f15a-4793-94b1-f0bdd66ea4e0" />
@@ -185,7 +185,7 @@ Answering user questions.
 
 Example: “Hey Siri, remind me to attend my class at 9 AM.”
 
-# 5. ADVANTAGES
+# ADVANTAGES
 
 Hands-free operation and convenient interaction.
 
@@ -199,7 +199,7 @@ Personalized services based on supported settings and user preferences.
 
 Efficient management of daily tasks.
 
-# 6. LIMITATIONS
+# LIMITATIONS
 
 Smart speakers may misunderstand voice commands.
 
